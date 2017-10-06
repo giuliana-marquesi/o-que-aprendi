@@ -25,7 +25,7 @@ tópico da vida.
 - [Gismo (plugin do Moodle](gismo.md)
 - [Report Design do Pentaho](report-design-pentaho.md)
 
-## [Diário](diario/) ##
+## [Diário](diario/README.md) ##
 
 
 ### [Scripts em shellscript](https://github.com/giuliana-marquesi/scripts) ###
