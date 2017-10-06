@@ -25,7 +25,9 @@ tópico da vida.
 - [Gismo (plugin do Moodle](gismo.md)
 - [Report Design do Pentaho](report-design-pentaho.md)
 
-## [Diário](diario/README.md) ##
+## [Diário] ##
+### 29/09/2017 ###
+- [Como importar CSV](diario/290917/como-importar-csv.md)
 
 
 ### [Scripts em shellscript](https://github.com/giuliana-marquesi/scripts) ###
