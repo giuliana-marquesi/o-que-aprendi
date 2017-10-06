@@ -6,16 +6,26 @@ problemas.
 Aparentemente terão muitas coisas realacionadas à tecnologia, porém não é restrito somente a este
 tópico da vida.
 
+## Como usar ##
+
 - [VIM](vim.md)
 - [Terminal](linux.md)
-- [Skip-n-gram](https://github.com/giuliana-marquesi/skip_n_gram/blob/master/readme.md)
-- [Cordova](https://github.com/ViniciusBaptista/appeso/wiki/Cordova)
-- [Apresentação pandoc/beamer sobre Realidade Virtual](rv/index.md)
-- [Integração R com banco MySQL](integracaoRMySQL.md)
 
+## Pesquisas ##
+
+- [Skip-n-gram](https://github.com/giuliana-marquesi/skip_n_gram/blob/master/readme.md)
+- [Apresentação pandoc/beamer sobre Realidade Virtual](rv/index.md)
+
+## Instalação ##
+
+- [Cordova](https://github.com/ViniciusBaptista/appeso/wiki/Cordova)
+- [Integração R com banco MySQL](integracaoRMySQL.md)
+- [MySQL e Workbench](mySQLWorkbench.md)
+- [configurar o Moodle](moodle.md)
+- [Gismo (plugin do Moodle](gismo.md)
+- [Report Design do Pentaho](report-design-pentaho.md)
 
 ## [Diário](diario/) ##
-
 
 
 ### [Scripts em shellscript](https://github.com/giuliana-marquesi/scripts) ###
