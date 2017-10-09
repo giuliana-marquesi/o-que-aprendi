@@ -33,5 +33,6 @@ tópico da vida.
 
 - [Para limpar os metadados antigos por novos no Facebook. Links atualizados](https://developers.facebook.com/tools/debug)
 - [Lista de ferramentas seguras, contra PRISM](https://prism-break.org/pt/)
+- [Site sugere alternativas à programas](https://alternativeto.net/)
 
 ### [Scripts em shellscript](https://github.com/giuliana-marquesi/scripts) ###
