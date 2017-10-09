@@ -29,5 +29,9 @@ tópico da vida.
 ### 29/09/2017 ###
 - [Como importar CSV](diario/290917/como-importar-csv.md)
 
+### 09/10/2017 ###
+
+- [Para limpar os metadados antigos por novos no Facebook. Links atualizados](https://developers.facebook.com/tools/debug)
+- [Lista de ferramentas seguras, contra PRISM](https://prism-break.org/pt/)
 
 ### [Scripts em shellscript](https://github.com/giuliana-marquesi/scripts) ###
