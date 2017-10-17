@@ -33,7 +33,8 @@ tópico da vida.
 - [Como espelhar a tela do Android no Linux sem instalar programas
   estranhos](http://www.madrugueds.com.br/2017/10/espelhar-tela-do-android-no-linux-pelo.html)
 - Para identificar as teclas mapeadas e descobrir alguma possível falha no teclado:
-	showkey -a
+
+		showkey -a
 
 	> -a : exibe de acordo com tabela ASCII os valores atribuidos as teclas
 
