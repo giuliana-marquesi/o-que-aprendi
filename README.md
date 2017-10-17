@@ -15,6 +15,7 @@ tópico da vida.
 
 - [Skip-n-gram](https://github.com/giuliana-marquesi/skip_n_gram/blob/master/readme.md)
 - [Apresentação pandoc/beamer sobre Realidade Virtual](rv/index.md)
+- [Microservicos](microservicos.md)
 
 ## Instalação ##
 
@@ -25,14 +26,21 @@ tópico da vida.
 - [Gismo (plugin do Moodle](gismo.md)
 - [Report Design do Pentaho](report-design-pentaho.md)
 
-## Diário ##
-### 29/09/2017 ###
+## Como fazer ##
+
 - [Como importar CSV](diario/290917/como-importar-csv.md)
-
-### 09/10/2017 ###
-
 - [Para limpar os metadados antigos por novos no Facebook. Links atualizados](https://developers.facebook.com/tools/debug)
+- [Como espelhar a tela do Android no Linux sem instalar programas
+  estranhos](http://www.madrugueds.com.br/2017/10/espelhar-tela-do-android-no-linux-pelo.html)
+- Para identificar as teclas mapeadas e descobrir alguma possível falha no teclado:
+	showkey -a
+
+	> -a : exibe de acordo com tabela ASCII os valores atribuidos as teclas
+
+## Dicas de Sites ##
+
 - [Lista de ferramentas seguras, contra PRISM](https://prism-break.org/pt/)
 - [Site sugere alternativas à programas](https://alternativeto.net/)
 
+	
 ### [Scripts em shellscript](https://github.com/giuliana-marquesi/scripts) ###
